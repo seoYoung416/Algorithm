@@ -1,3 +1,4 @@
+// 1로 만들기
 #include <iostream>
 using namespace std;
 

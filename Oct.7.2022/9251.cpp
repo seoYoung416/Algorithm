@@ -1,4 +1,4 @@
-//LCS
+// LCS
 #include <iostream>
 using namespace std;
 

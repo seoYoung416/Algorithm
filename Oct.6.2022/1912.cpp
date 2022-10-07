@@ -1,4 +1,4 @@
-//연속합
+// 연속합
 #include <iostream>
 using namespace std;
 

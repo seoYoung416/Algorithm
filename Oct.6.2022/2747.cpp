@@ -1,8 +1,9 @@
+// 피보나치 수
 #include <iostream>
 using namespace std;
 
 //바텀업 방식
-long long dp[91];
+int dp[46];
 int main() {
 	int n; cin >> n;
 
@@ -14,8 +15,8 @@ int main() {
 }
 
 //탑다운 방식
-/*long long db[46];
-long long fibo(int n) {
+/*int db[46];
+int fibo(int n) {
 	db[0] = 0, db[1] = 1;
 	if (db[n] != -1) return db[n];
 
