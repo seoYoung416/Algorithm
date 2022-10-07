@@ -2,7 +2,7 @@
 using namespace std;
 
 //바텀업 방식
-/*long long dp[91];
+long long dp[91];
 int main() {
 	int n; cin >> n;
 
@@ -11,7 +11,7 @@ int main() {
 		dp[i] = dp[i - 2] + dp[i - 1];
 	}
 	cout << dp[n];
-}*/
+}
 
 //탑다운 방식
 /*long long db[46];
